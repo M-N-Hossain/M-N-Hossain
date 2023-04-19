@@ -17,4 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-n-hossain&show_icons=true&locale=en" alt="m-n-hossain" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=M-N-Hossain)  
+
+![GitHub metrics](https://metrics.lecoq.io/M-N-Hossain) 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-n-hossain&" alt="m-n-hossain" /></p>
