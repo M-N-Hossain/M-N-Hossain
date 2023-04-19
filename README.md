@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Md Nayeem Hossain
 #### Software Developer
-![Software Developer](https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/305016492_1299229210481487_9124303210975782735_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IzZDoQnXkwQAX9NUdnP&_nc_ht=scontent-arn2-1.xx&oh=00_AfAqoRTEVIZI2h99hTpRbpsRZRdyqgt8J6I46SVfsEh8Pw&oe=6444A7DE)
 
 I am a computer science student at the Copenhagen School of Design and Technology.
 
