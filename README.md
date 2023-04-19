@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Nayeem Hossain</h1>
 <h3 align="center">Software Developer</h3>
 
+<p>
+I am a computer science student with expertise in developing web and mobile apps, (backend, and frontend. I am responsible, dedicated, and a quick learner. I prioritize listening first before responding, to ensure that I fully understand the project requirements and team needs. Working collaboratively in a team environment comes naturally to me, and I enjoy contributing my skills and expertise to achieve the best possible outcome.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-n-hossain" alt="m-n-hossain" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
