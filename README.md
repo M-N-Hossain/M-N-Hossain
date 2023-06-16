@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Nayeem Hossain</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p>
-I am a computer science student with expertise in developing web and mobile apps, (backend, and frontend. I am responsible, dedicated, and a quick learner. I prioritize listening first before responding, to ensure that I fully understand the project requirements and team needs. Working collaboratively in a team environment comes naturally to me, and I enjoy contributing my skills and expertise to achieve the best possible outcome.
+🔭 I’m currently studying computer science
 </p>
+<P>
+ 🌱 I’m currently learning Full-Stack with Node.Js,
+  App Development with C# and Mobile Development - Android & iOS
+</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
 
