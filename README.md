@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying computer science
 - 🌱 I’m currently learning Full-Stack with Node.Js,
-- App Development with C# and Mobile Development - Android & iOS
+     App Development with C# and Mobile Development - Android & iOS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
 
