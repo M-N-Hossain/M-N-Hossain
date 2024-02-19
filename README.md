@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Nayeem Hossain</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently studying computer science
-- 🌱 I’m currently learning Full-Stack with Node.Js,
-     App Development with C# and Mobile Development - Android & iOS
+- 🔭 I’m a recent computer science graduate
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
 
