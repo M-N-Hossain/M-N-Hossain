@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m a recent computer science graduate
+- 📚 currently, learning Next JS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
 
