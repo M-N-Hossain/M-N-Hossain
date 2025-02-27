@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nayeem Hossain</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">I'm a Full Stack Developer passionate about building scalable web and mobile applications. I thrive on solving complex problems and continuously learning new technologies.</h3>
 
 - 🔭 I’m a recent computer science graduate
 - 📚 currently, learning Next JS
