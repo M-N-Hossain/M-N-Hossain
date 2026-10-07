@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Md%20Nayeem%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20AI%20%26%20Automation&descSize=18&descAlignY=60" alt="header" />
+<img src="assets/header.svg" alt="Md Nayeem Hossain, Software Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Shipping+production+mobile+and+web+apps;Founding+developer+at+Athme;Curious+about+AI+and+automation;Idea+to+release%2C+end+to+end" alt="Typing SVG" />
@@ -27,7 +27,7 @@ I'm passionate about new technology, especially AI and automation, and about bui
 
 ## 💼 Experience
 
-### Founding Software Developer · [athme](https://athmeapp.eu)
+### Founding Software Developer · [Athme](https://athmeapp.eu)
 *Jan 2025 to present · Copenhagen*
 
 Sports community platform used by 4,500+ people in Copenhagen, Aarhus and Bratislava. Rated 4.8★ on iOS and Android, backed by Google for Startups and Microsoft.
@@ -101,6 +101,6 @@ Role-based LMS with JWT authentication. REST API designed and documented in Nest
 
 **Want to build something together, or just talk tech? Reach out on [LinkedIn](https://linkedin.com/in/md-nayeem-hossain-86702921b).** 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=100&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="footer" width="100%" />
 
 </div>

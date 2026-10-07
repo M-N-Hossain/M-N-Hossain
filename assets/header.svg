@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Md Nayeem Hossain, Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" rx="16" fill="url(#bg)"/>
+  <circle cx="900" cy="30" r="120" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="80" cy="190" r="90" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="500" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Md Nayeem Hossain</text>
+  <text x="500" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.92">Software Developer · Mobile · Web · AI &amp; Automation</text>
+</svg>
