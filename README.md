@@ -27,7 +27,7 @@ I'm passionate about new technology, especially AI and automation, and about bui
 
 ## 💼 Experience
 
-### Founding Software Developer · [Athme](https://athmeapp.eu)
+### Founding Software Developer · [athme](https://athmeapp.eu)
 *Jan 2025 to present · Copenhagen*
 
 Sports community platform used by 4,500+ people in Copenhagen, Aarhus and Bratislava. Rated 4.8★ on iOS and Android, backed by Google for Startups and Microsoft.
