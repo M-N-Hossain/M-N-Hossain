@@ -1,26 +1,106 @@
-<h1 align="center">Hi 👋, I'm Md Nayeem Hossain</h1>
-<h3 align="center">I'm a Full Stack Developer passionate about building scalable web and mobile applications. I thrive on solving complex problems and continuously learning new technologies.</h3>
+<div align="center">
 
-- 🔭 I’m a recent computer science graduate
-- 📚 currently, learning Next JS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Md%20Nayeem%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20AI%20%26%20Automation&descSize=18&descAlignY=60" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="m-n-hossain" /> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Shipping+production+mobile+and+web+apps;Founding+developer+at+Athme;Curious+about+AI+and+automation;Idea+to+release%2C+end+to+end" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-nayeem-hossain-86702921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nayeem-hossain-86702921b" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nayeem-hossain-86702921b)
+[![Athme](https://img.shields.io/badge/Athme-athmeapp.eu-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://athmeapp.eu)
+![Location](https://img.shields.io/badge/Copenhagen-Denmark-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+</div>
+
+---
+
+## 👋 About me
+
+Full stack developer with 2+ years of shipping production mobile and web apps. I work across **Expo React Native, React/Next.js and Node.js**, covering UI, APIs, authentication, analytics and real-time features. I co-built a sports community platform used by **4,500+ people across three European cities**, and I take features from idea to release.
+
+I'm passionate about new technology, especially AI and automation, and about building things that solve real problems.
+
+---
+
+## 💼 Experience
+
+### Founding Software Developer · [Athme](https://athmeapp.eu)
+*Jan 2025 to present · Copenhagen*
+
+Sports community platform used by 4,500+ people in Copenhagen, Aarhus and Bratislava. Rated 4.8★ on iOS and Android, backed by Google for Startups and Microsoft.
+
+- Co-built the platform with the CTO, delivering features across the **Expo React Native app, the Next.js web client and internal dashboard, and the Node.js backend**
+- Built the **admin dashboard and analytics system** in Next.js, combining Firebase Analytics and database data so the CEO, CTO and business team can track growth, retention and event profitability. Worked directly with stakeholders to define what they needed
+- Built **Firebase Authentication** from scratch, including Google and Apple sign-in (OAuth 2.0 and OpenID Connect), and shipped it to production on iOS and Android
+- Shipped **real-time geospatial event discovery** with Mapbox GL, and rebuilt state management on React Context API to fix a recurring Android performance issue
+- Scoped a country-based sport discovery feature to ship under a tight deadline, using frontend geolocation with a fallback to Denmark's sports when permission is denied
+
+### Software Developer Intern · Klimakampen ApS
+*Aug 2023 to Jan 2024*
+
+- Built React Native/Expo frontend and serverless AWS Lambda backend features in a cross-functional team, integrated third-party services, and contributed to system architecture using DynamoDB and Node.js
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nodejs,express,nestjs&theme=dark" alt="languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql,firebase,aws,azure,docker,git&theme=dark" alt="data and infrastructure" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Java |
+| **Backend** | Node.js (Express, NestJS) |
+| **Frontend & Mobile** | React.js, Next.js, Expo React Native |
+| **Databases** | MySQL, PostgreSQL, MongoDB, DynamoDB |
+| **Auth** | OAuth 2.0 / OpenID Connect, Firebase Auth, JWT |
+| **DevOps & Cloud** | Docker, AWS Lambda, Azure |
+| **Tools** | Prisma, Git, Jira, Postman, Swagger, n8n |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-n-hossain&show_icons=true&locale=en&layout=compact" alt="m-n-hossain" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-n-hossain&show_icons=true&locale=en" alt="m-n-hossain" /></p>
+## 🧪 Projects
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=M-N-Hossain)  
+**📋 Compliance Tracker** *(in progress)*
+Full-stack app that helps small companies track certification requirements and document expiry. AI is used for two bounded tasks only, and every compliance record traces back to a human decision. Built with Next.js, Prisma, PostgreSQL and Docker. Full write-up coming soon.
 
-![GitHub metrics](https://metrics.lecoq.io/M-N-Hossain) 
+**📡 Uptime Monitoring API**
+Node.js API that monitors user-defined URLs on a schedule and sends SMS alerts via Twilio on downtime. Token-based auth and file-based storage, with no database dependency.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-n-hossain&" alt="m-n-hossain" /></p>
+**🎓 Online Learning Platform**
+Role-based LMS with JWT authentication. REST API designed and documented in NestJS with Swagger, covering course management and enrolment flows.
+
+---
+
+## 🎓 Education
+
+- **Bachelor's in Web Development**, Copenhagen Business Academy (Aug 2024 to Jan 2026)
+- **AP Degree in Computer Science**, KEA (Aug 2021 to Jan 2024)
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=m-n-hossain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-n-hossain&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Want to build something together, or just talk tech? Reach out on [LinkedIn](https://linkedin.com/in/md-nayeem-hossain-86702921b).** 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=100&section=footer" alt="footer" />
+
+</div>
