@@ -3,13 +3,13 @@
 <img src="assets/header.svg" alt="Md Nayeem Hossain, Software Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Shipping+production+mobile+and+web+apps;Founding+developer+at+Athme;Curious+about+AI+and+automation;Idea+to+release%2C+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Shipping+production+mobile+and+web+apps;Founding+developer+at+athme;Curious+about+AI+and+automation;Idea+to+release%2C+end+to+end" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nayeem-hossain-86702921b)
-[![Athme](https://img.shields.io/badge/Athme-athmeapp.eu-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://athmeapp.eu)
+[![athme](https://img.shields.io/badge/athme-athmeapp.eu-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://athmeapp.eu)
 ![Location](https://img.shields.io/badge/Copenhagen-Denmark-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=m-n-hossain&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
@@ -27,7 +27,7 @@ I'm passionate about new technology, especially AI and automation, and about bui
 
 ## 💼 Experience
 
-### Founding Software Developer · [Athme](https://athmeapp.eu)
+### Founding Software Developer · [athme](https://athmeapp.eu)
 *Jan 2025 to present · Copenhagen*
 
 Sports community platform used by 4,500+ people in Copenhagen, Aarhus and Bratislava. Rated 4.8★ on iOS and Android, backed by Google for Startups and Microsoft.
